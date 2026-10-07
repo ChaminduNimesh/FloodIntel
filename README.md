@@ -10,7 +10,7 @@ Built as a final year undergraduate research project, FloodIntel integrates two 
 
 ## Live Demo
 
-🔗 *[Add your real deployed URL here once published]*
+🔗 https://lnkd.in/p/gusxKbfM
 
 ---
 
